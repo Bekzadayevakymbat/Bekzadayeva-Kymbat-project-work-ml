@@ -1,4 +1,6 @@
 Phishing URL Detector
+
+
 This project presents a machine learning–based system for detecting phishing websites using only URL-based features. The main goal of the project is to classify web links as either legitimate or phishing and provide a probability-based risk assessment in real time.
 Phishing remains one of the most common cyber threats, aiming to deceive users into revealing sensitive information. Traditional rule-based detection methods are often ineffective against newly generated phishing URLs. To address this problem, this project applies machine learning techniques to automatically identify malicious URLs based on their structural characteristics.
 The system implements a complete machine learning pipeline, including data preprocessing, feature extraction, model training, evaluation, and deployment. The trained model is integrated into a Flask-based web application that allows users to analyze URLs through a simple and user-friendly interface.
