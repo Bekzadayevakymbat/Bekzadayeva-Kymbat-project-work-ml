@@ -4,7 +4,7 @@ This project presents a machine learning–based system for phishing URL detecti
 
 The project implements a complete machine learning pipeline, including data preprocessing, feature extraction, model training, and deployment. The trained model is integrated into a Flask web application with a simple user interface for URL analysis.
 
-The dataset consists of labeled phishing and legitimate URLs obtained from a public Kaggle source. Future improvements may include additional features and more advanced models.
+The dataset consists of labeled phishing and legitimate URLs obtained from a public Kaggle source. Future improvements may include additional features and more advanced models.https://www.kaggle.com/datasets/taruntiwarihp/phishing-site-urls
 
 Author:
 Kymbat Bekzadayeva
